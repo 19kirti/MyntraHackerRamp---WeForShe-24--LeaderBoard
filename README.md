@@ -1,6 +1,6 @@
 # The Leaderboard
 
-![bg2](https://github.com/user-attachments/assets/8a4a2112-12f5-46c9-9886-00ffeddcaeb0)
+![bg4](https://github.com/user-attachments/assets/f1ecea62-fa1c-4f47-ac96-caa4a56c30bd)
 
 
 ## About  
@@ -14,8 +14,8 @@ This is a web-based weekly leaderboard for the Myntra Platform built using HTML 
 
 ## Installation of the Poll 
 
-1. Clone the repository: `https://github.com/19kirti/MyntraHackerRamp-WeForShe-24--Poll.git`
-2. Open the project folder: `cd MyntraHackerRamp - WeForShe'24 - Poll`
+1. Clone the repository: `https://github.com/19kirti/MyntraHackerRamp-WeForShe-24--LeaderBoard.git`
+2. Open the project folder: `cd MyntraHackerRamp - WeForShe'24 -LeaderBoard`
 3. Open `index.html` in your preferred web browser.
 
 ## Contributions

@@ -10,7 +10,7 @@ This is a web-based weekly leaderboard for the Myntra Platform built using HTML 
 ## Features  
 
 - Displays the names of the top performers in a card view
-- User Interactive
+- User Interactive design
 
 ## Installation of the Poll 
 
